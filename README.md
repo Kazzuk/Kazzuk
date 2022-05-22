@@ -1,0 +1,1 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,cpp,csharp,rust,python,html,css,sass,bash,xml,json,yaml,postgresql,mysql,graphql)](https://github.com/Jurredr/github-widgetbox)
