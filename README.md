@@ -3,21 +3,21 @@
 I'm a very passionate person about learning new things especially from others as much as helping others solve problems. I'm currently busy furthering my career to be a software engineer at [Queen's University](https://www.qub.ac.uk). Most important of all I'm fun to work with. :smile:
 
 ### A little more about me...
-```go
-adam := Developer{
-    languages: []string{
+
+```rust
+let adam = Developer {
+    languages: vec![
         "C#",
         "C++",
         "CSS",
-        "Go",
         "HTML",
         "Java",
         "JavaScript",
         "Python",
         "Rust",
         "TypeScript",
-    },
-    tools: []string{
+    ],
+    tools: vec![
         "ExpressJS",
         "NestJS",
         "React",
@@ -25,6 +25,6 @@ adam := Developer{
         "Redux",
         "Socket.IO",
         "Styled Components",
-    },
-}
+    ],
+};
 ```
