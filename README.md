@@ -15,16 +15,7 @@ let adam = Developer {
         "JavaScript",
         "Python",
         "Rust",
-        "TypeScript",
-    ],
-    tools: vec![
-        "ExpressJS",
-        "NestJS",
-        "React",
-        "React Native",
-        "Redux",
-        "Socket.IO",
-        "Styled Components",
-    ],
+        "TypeScript"
+    ]
 };
 ```
